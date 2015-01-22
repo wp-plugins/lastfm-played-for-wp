@@ -1,6 +1,6 @@
 === LastFM Played for Wordpress ===
 Contributors: mangorausch
-Tags: LastFM, Scrobble, Last, FM
+Tags: LastFM, Scrobble, Widget
 Requires at least: 4.0
 Tested up to: 4.1
 Stable tag: 4.0
