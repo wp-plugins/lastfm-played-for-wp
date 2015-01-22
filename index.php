@@ -87,7 +87,7 @@ License: GPLv2
     echo "</tr>";
 	echo "</table>";
 
-	echo "<table style='margin-top: -150px;''>";
+	echo "<table style='margin-top: -100px;''>";
 	foreach ($lastfm_response->recenttracks->track as $tracks) {
 	
 	$img = $tracks->image[1];
@@ -99,7 +99,7 @@ License: GPLv2
 	echo "<td style='width: 50px;'>";
 	echo '<img height="50" width="50" src="'.$img.'" />';
 	echo "</td>";
-	echo "<td style='vertical-align: top; line-height: 1.1;'>";
+	echo "<td style='vertical-align: top; line-height: 1.1; padding: 5px;'>";
     echo "<small>" . $name . "</small><br>";
     echo "<small>" . $artist . "</small><br>";
 	echo "<small>" . human_time_diff($time) . " ago</small>";
