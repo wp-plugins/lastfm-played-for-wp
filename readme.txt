@@ -32,4 +32,4 @@ https://github.com/nicolasbettag/LastFM-Played-for-Wordpress/issues
 
 == Screenshots ==
 
-1. 
+1. Happy Scrobbling!
